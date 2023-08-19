@@ -1,6 +1,6 @@
 # QuickNotes
 
-<h3>A simple note app built using VueJS</h3>
+<h3>A simple notes app built using VueJS.h3>
 
 ![Alt text](/public/screen-1.png "QuickNotes Screen 1")
 
